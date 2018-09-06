@@ -1,0 +1,17 @@
+{
+  "images" :
+  [
+    {
+      "image" : "book/book_face.png",
+      "name" : "book_face"
+    },
+    {
+      "image" : "book/book_in.png",
+      "name" : "book_in"
+    },
+    {
+      "image" : "book/book_in_2.png",
+      "name" : "book_in_2"
+    }
+  ]
+}

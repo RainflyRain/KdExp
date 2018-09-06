@@ -1,0 +1,2 @@
+include  ':libkudancv',   ':app_kudan'
+
